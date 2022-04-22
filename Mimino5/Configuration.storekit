@@ -1,0 +1,78 @@
+{
+  "identifier" : "FFA400D8",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "830878DC",
+      "localizations" : [
+        {
+          "description" : "Поддержать разработчика.",
+          "displayName" : "Поддержка - 99 ₽",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "donate_99",
+      "referenceName" : "Поддержка 99 ₽",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "383F2445",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "donate_179",
+      "referenceName" : "Поддержка 179 ₽",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "47331E9B",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "donate_279",
+      "referenceName" : "Поддержка 279 ₽",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "FC7A4883",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "donate_379",
+      "referenceName" : "Поддержка 379 ₽",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
