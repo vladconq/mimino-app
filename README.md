@@ -1,1 +1,1 @@
-# mimino-app
+# Mimino App
