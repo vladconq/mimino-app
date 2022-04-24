@@ -14,8 +14,8 @@ The development and design were developed by me. It is absolutely free, so the c
 Some pics: 
 
 <p>
-  <img src="https://github.com/vladconq/mimino-app/blob/master/Mimino5/Pics/1.jpg" width="250">
-  <img src="https://github.com/vladconq/mimino-app/blob/master/Mimino5/Pics/2.jpg" width="250">
+  <img src="https://github.com/vladconq/mimino-app/blob/master/Mimino5/Pics/1.jpg" width="375">
+  <img src="https://github.com/vladconq/mimino-app/blob/master/Mimino5/Pics/2.jpg" width="375">
 </p>
 
 <p>
